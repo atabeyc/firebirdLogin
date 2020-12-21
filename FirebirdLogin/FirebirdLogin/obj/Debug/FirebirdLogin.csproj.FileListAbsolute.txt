@@ -1,0 +1,12 @@
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\bin\Debug\FirebirdLogin.exe.config
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\bin\Debug\FirebirdLogin.exe
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\bin\Debug\FirebirdLogin.pdb
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.csprojAssemblyReference.cache
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.Form1.resources
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.Properties.Resources.resources
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.csproj.GenerateResource.cache
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.csproj.CoreCompileInputs.cache
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.exe
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.pdb
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\cagatay.atabey\Desktop\Projects\Login\FirebirdLogin\FirebirdLogin\obj\Debug\FirebirdLogin.csproj.CopyComplete
